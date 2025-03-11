@@ -1,0 +1,23 @@
+{
+  "name": "@bordeado/webdev_",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietroaandrade/webdev_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietroaandrade/webdev_/issues"
+  },
+  "homepage": "https://github.com/pietroaandrade/webdev_#readme",
+  "dependencies": {
+    "cows": "^3.0.1"
+  }
+}
