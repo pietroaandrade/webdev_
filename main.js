@@ -1,4 +1,4 @@
-import cows from './node_modules/cows/index.js';
+import cows from 'cows';
 import chalk from 'chalk';
 export default function imprimirVaca(cor = 'blue') {
     const vaca = cows();
