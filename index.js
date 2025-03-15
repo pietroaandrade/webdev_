@@ -1,4 +1,4 @@
-import imprimirVaca from "./teste.js";
+import imprimirVaca from "./main.js";
 
 
 imprimirVaca('cyan')
